@@ -10,7 +10,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'تم تفكيك لكروب R5',
+    name: 'DEAD LIFE',
     application_id: '477187715658547201',
      assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
