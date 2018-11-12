@@ -29,7 +29,7 @@ client.on('ready', function(){
     }, 5000);
 });
 const devs = ["439187325503930369","370308123153661974"];
-const prefix = "N"
+const prefix = "R"
 client.on('message', async msg => {
     if (msg.author.bot) return undefined;
     if (!msg.content.startsWith(prefix)) return undefined;
